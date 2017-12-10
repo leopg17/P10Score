@@ -13,7 +13,7 @@ namespace P10Score
 		{
 			InitializeComponent();
 
-			MainPage = new P10Score.MainPage();
+			MainPage = new P10Score.View.MainPage();
 		}
 
 		protected override void OnStart ()

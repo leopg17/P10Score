@@ -15,8 +15,12 @@ namespace P10Score.View {
     public partial class MainPage : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::P10Score.View.HomeMenu MasterPage;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            MasterPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::P10Score.View.HomeMenu>(this, "MasterPage");
         }
     }
 }

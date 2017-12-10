@@ -10,7 +10,7 @@ using Xamarin.Forms.Xaml;
 namespace P10Score.View
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class MainPage : ContentPage
+	public partial class MainPage : MasterDetailPage
 	{
 		public MainPage ()
 		{
