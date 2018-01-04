@@ -10,11 +10,11 @@ using Xamarin.Forms.Xaml;
 namespace P10Score.View
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class HomePage : ContentPage
+	public partial class HomePage : TabbedPage
 	{
 		public HomePage ()
 		{
 			InitializeComponent ();
-		}
+        }
 	}
 }
