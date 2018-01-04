@@ -64,9 +64,6 @@ C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\com.companyname.P10Score.ap
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\com.companyname.P10Score-Signed.apk
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\FormsViewGroup.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Newtonsoft.Json.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Realm.DataBinding.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Realm.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Realm.Sync.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Remotion.Linq.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
@@ -94,11 +91,6 @@ C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\FormsViewGroup.pdb
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Newtonsoft.Json.xml
-C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Realm.pdb
-C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Realm.xml
-C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Realm.DataBinding.pdb
-C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Realm.Sync.pdb
-C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Realm.Sync.xml
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Remotion.Linq.xml
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Gits\P10Score\P10Score\P10Score.Android\bin\Debug\Xamarin.Forms.Core.pdb

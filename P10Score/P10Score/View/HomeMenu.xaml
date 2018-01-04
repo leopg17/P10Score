@@ -3,6 +3,19 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="P10Score.View.HomeMenu"
              Title="Master">
-    
-    
+    <ContentView BackgroundColor="#64ffda">
+    </ContentView>
+    <!--ListView x:Name="menuList">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <StackLayout>
+                    <ImageCell Text="Crear"/>
+                    <ImageCell Text="Amigos"/>
+                    <ImageCell Text="Historial"/>
+                    <ImageCell Text="Salir"/>
+                </StackLayout>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </-->
+
 </ContentPage>

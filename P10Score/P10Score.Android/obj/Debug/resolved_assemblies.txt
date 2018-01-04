@@ -1,9 +1,6 @@
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\P10Score.Android.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\FormsViewGroup.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Realm.DataBinding.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Realm.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Realm.Sync.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Remotion.Linq.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Runtime.CompilerServices.Unsafe.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Xamarin.Android.Arch.Core.Common.dll
@@ -69,14 +66,8 @@ C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Threa
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Reflection.Primitives.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.IO.FileSystem.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Runtime.Handles.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Reflection.TypeExtensions.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Console.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Linq.Queryable.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Threading.Timer.dll
-C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Net.Primitives.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.ComponentModel.dll
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Mono.Security.dll

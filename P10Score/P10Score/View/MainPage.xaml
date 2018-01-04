@@ -7,9 +7,9 @@
         <pages:HomeMenu x:Name="MasterPage" />
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
-        <NavigationPage>
+        <NavigationPage BarBackgroundColor="Black" BarTextColor="White">
             <x:Arguments>
-                <pages:HomePage />
+                <pages:HomePage/>
             </x:Arguments>
         </NavigationPage>
     </MasterDetailPage.Detail>
