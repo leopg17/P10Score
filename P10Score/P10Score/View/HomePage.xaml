@@ -4,10 +4,20 @@
              x:Class="P10Score.View.HomePage"
              Title="Welcome"
              BackgroundColor="Black">
-    <StackLayout>
-        <Label Text="Welcome" HorizontalOptions="Center" TextColor="White" />
-        <Button Text="Next"/>
-    </StackLayout>
+    <ListView x:Name="menuList" BackgroundColor="#64ffda">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout>
+                        <Label Text="Crear"/>
+                        <Label Text="Amigos"/>
+                        <Label Text="Historial"/>
+                        <Label Text="Salir"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
 
 
 </ContentPage>
