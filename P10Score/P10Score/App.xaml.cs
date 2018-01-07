@@ -1,4 +1,5 @@
 ﻿
+using P10Score.View;
 using Xamarin.Forms;
 
 namespace P10Score
@@ -9,7 +10,8 @@ namespace P10Score
 		{
 			InitializeComponent();
 
-            MainPage = new P10Score.View.MainPage();
+            //MainPage = new P10Score.View.MainPage();
+            MainPage = new LoginPage();
 
 		}
 

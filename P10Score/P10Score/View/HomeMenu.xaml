@@ -3,11 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="P10Score.View.HomeMenu"
              Title="Master">
-    <StackLayout>
-        <Button Text="Crear" BackgroundColor="Red"/>
-        <Button Text="Amigos" BackgroundColor="GreenYellow"/>
-        <Button Text="Partidas Jugadas" BackgroundColor="Blue"/>
-        <Button Text="Perfil" BackgroundColor="Yellow"/>
+    <StackLayout BackgroundColor="Black">
+        <Button Text="Crear" BackgroundColor="#e81d00" TextColor="White"/>
+        <Button Text="Amigos" BackgroundColor="#e81d00" TextColor="White"/>
+        <Button Text="Partidas Jugadas" BackgroundColor="#e81d00" TextColor="White"/>
+        <Button Text="Perfil" BackgroundColor="#e81d00" TextColor="White"/>
     </StackLayout>
 
 

@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using ImageCircle.Forms.Plugin.iOS;
 
 namespace P10Score.iOS
 {
@@ -23,7 +24,8 @@ namespace P10Score.iOS
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options)
 		{
 			global::Xamarin.Forms.Forms.Init ();
-			LoadApplication (new P10Score.App ());
+            ImageCircleRenderer.Init();
+            LoadApplication (new P10Score.App ());
 
 			return base.FinishedLaunching (app, options);
 		}

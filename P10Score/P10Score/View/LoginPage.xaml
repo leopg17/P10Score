@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="P10Score.View.LoginPage"
+             BackgroundColor="Black">
+    <ContentPage Title="Login" BackgroundColor="Black">
+        <StackLayout VerticalOptions="Center">
+            <Image Source="p10o96.png"/>
+            <Frame CornerRadius="20" BackgroundColor="Gray">
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="user.png"/>
+                        <Entry Placeholder="Email" 
+                           PlaceholderColor="White" 
+                           Keyboard="Email" 
+                           TextColor="White"
+                           WidthRequest="280"/>
+                    </StackLayout>
+                </Frame>
+                <Frame CornerRadius="20" BackgroundColor="Gray">
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="password.png"/>
+                        <Entry Placeholder="Password" 
+                           PlaceholderColor="White" 
+                           BackgroundColor="Gray" 
+                           IsPassword="True"
+                           TextColor="White"
+                           WidthRequest="280"/>
+                    </StackLayout>
+                </Frame>
+                <Button Text="Login" BackgroundColor="#e81d00" BorderRadius="20" TextColor="White"/>
+            </StackLayout>
+    </ContentPage>
+
+    <ContentPage Title="Register" BackgroundColor="Black">
+        <StackLayout VerticalOptions="Center">
+            <Image Source="p10o96.png"/>
+            <Frame BackgroundColor="Gray" CornerRadius="20">
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="text.png"/>
+                    <Entry Placeholder="Nombre" 
+                           PlaceholderColor="White" 
+                           BackgroundColor="Gray" 
+                           TextColor="White"
+                           WidthRequest="280"/>
+                </StackLayout>
+            </Frame>
+            <Frame BackgroundColor="Gray" CornerRadius="20">
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="user.png"/>
+                    <Entry Placeholder="Email" 
+                           PlaceholderColor="White" 
+                           BackgroundColor="Gray" 
+                           TextColor="White"
+                           WidthRequest="280"/>
+                </StackLayout>
+            </Frame>
+            <Frame BackgroundColor="Gray" CornerRadius="20">
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="password.png"/>
+                    <Entry Placeholder="Password" 
+                           PlaceholderColor="White" 
+                           BackgroundColor="Gray" 
+                           IsPassword="True"
+                           TextColor="White"
+                           WidthRequest="280"/>
+                </StackLayout>
+            </Frame>
+            <Button Text="Register" 
+                    BackgroundColor="#e81d00" 
+                    BorderRadius="20" 
+                    TextColor="White"/>
+        </StackLayout>
+    </ContentPage>
+</CarouselPage>

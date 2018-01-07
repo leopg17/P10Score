@@ -1,12 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="P10Score.View.SelectUsersPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+             x:Class="P10Score.View.SelectUsersPage"
+             BackgroundColor="Black"
+             Title="Select Users"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions">
+    <!--StackLayout>
+        <ListView x:Name="lstUsers">
+            <ListView.ItemTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal">
+                        <controls:CircleImage Source="{Binding Source=image}"/>
+                        <Label Text="{Binding Source=name}"/>
+                        
+                    </StackLayout>
+                </ViewCell>
+            </ListView.ItemTemplate>
+        </ListView>
+    </-->
 </ContentPage>

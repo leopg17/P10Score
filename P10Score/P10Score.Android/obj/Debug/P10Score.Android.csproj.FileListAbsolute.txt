@@ -115,3 +115,13 @@ C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\P10Score.And
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\P10Score.Droid.View.SelectUsersPage.xaml.g.cs
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\P10Score.Droid.View.FriendsPage.xaml.g.cs
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\P10Score.Droid.View.CreateGamePage.xaml.g.cs
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\P10Score.Droid.View.CurrentGamePage.xaml.g.cs
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\P10Score.Droid.View.LeaderBoardPage.xaml.g.cs
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\P10Score.Droid.View.LoginPage.xaml.g.cs
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\res\drawable\p10o96.png
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\res\drawable\password.png
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\res\drawable\user.png
+C:\Gits\P10Score\P10Score\P10Score.Android\obj\Debug\res\drawable\text.png
