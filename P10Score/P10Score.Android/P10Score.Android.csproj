@@ -18,7 +18,7 @@
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
     <AndroidStoreUncompressedFileExtensions />
     <MandroidI18n />
     <JavaMaximumHeapSize />
@@ -168,6 +168,7 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <AndroidResource Include="Resources\Drawable\p10o96.png" />
   </ItemGroup>
   <ItemGroup>
@@ -178,6 +179,18 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\Drawable\text.png" />
+=======
+    <AndroidResource Include="Resources\Drawable\gamepad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\Drawable\people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\Drawable\person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\Drawable\videogame.png" />
+>>>>>>> c98f6e57c4a37dfd4666ec1a380c2fdb88758df6
   </ItemGroup>
   <Import Project="..\P10Score\P10Score.projitems" Label="Shared" Condition="Exists('..\P10Score\P10Score.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

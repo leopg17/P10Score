@@ -12,7 +12,7 @@ namespace P10Score.View {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Gits\\P10Score\\P10Score\\P10Score\\View\\HomePage.xaml")]
-    public partial class HomePage : global::Xamarin.Forms.ContentPage {
+    public partial class HomePage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
